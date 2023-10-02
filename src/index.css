@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.svg_icons {
+   transform: scale(1.4);
+   margin-right: 20px;
+}
+.avatar {
+   border-radius: 50%;
+   background-color: blue;
+}
+.avatar_text {
+   transform: scale(0.8);
+   flex: auto;
+   margin-top: -20px;
+   color: brown;
+}
