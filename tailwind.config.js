@@ -5,7 +5,10 @@ module.exports = {
     colors: {
       XBlue: '#1D9BF0',
       white: '#FFFFFF',
-      gray: '#687684'
+      gray: {
+        100:'#6E767D',
+        200: '#687684'
+      },
     },
     extend: {},
   },
